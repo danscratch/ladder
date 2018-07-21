@@ -4,7 +4,7 @@ This ladder was developed by [Daniel Blumenthal](https://www.linkedin.com/in/dan
 
 ### On titles
 
-We have eschewed the use of specific titles (Software Engineer, Senior Software Engineer, Principal Ninja, etc.) in order to focus on the essential expectations at each level.
+We have avoided the use of specific titles (Software Engineer, Senior Software Engineer, Principal Ninja, Magister Ludi, etc.) in order to focus on the essential expectations at each level.
 
 ### The levels
 
