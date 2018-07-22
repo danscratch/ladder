@@ -1,10 +1,6 @@
 # Career Ladder
 
-This ladder was developed by [Daniel Blumenthal](https://www.linkedin.com/in/danielblumenthal/) and [Arnaud Lucas](https://www.linkedin.com/in/lucasarn/). We hope you will find it useful.
-
-### On titles
-
-We have avoided the use of specific titles (Software Engineer, Senior Software Engineer, Principal Ninja, Magister Ludi, etc.) in order to focus on the essential expectations at each level.
+This repo contains descriptions of expectations for software engineers from [most junior](L1.md) to [most senior](L6.md). Each company has their own set of titles that correspond to these levels. We have eschewed the use of titles (Software Engineer, Senior Software Engineer, Principal Ninja, Magister Ludi, etc.) in order to focus on the essential expectations at each level, and to avoid arguments as to what these levels should properly be called.
 
 ### The levels
 
@@ -17,7 +13,12 @@ We have avoided the use of specific titles (Software Engineer, Senior Software E
 
 ### TODO
 
-At some point, we will need to do manager levels. (any volunteers?)
+* Manager levels
+
+### Authors
+
+* [Daniel Blumenthal](https://www.linkedin.com/in/danielblumenthal/)
+* [Arnaud Lucas](https://www.linkedin.com/in/lucasarn/)
 
 ### License
 
