@@ -20,6 +20,10 @@ This repo contains descriptions of expectations for software engineers from [mos
 * [Daniel Blumenthal](https://www.linkedin.com/in/danielblumenthal/)
 * [Arnaud Lucas](https://www.linkedin.com/in/lucasarn/)
 
+### Note
+
+These docs are purely of our own devising, and do not necessarily reflect the opinions / expectations of our employers.
+
 ### License
 
 This career ladder is made available under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) license.
