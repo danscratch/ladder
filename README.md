@@ -26,4 +26,4 @@ These docs are purely of our own devising, and do not necessarily reflect the op
 
 ### License
 
-This career ladder is made available under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) license.
+This career ladder is made available under the Creative Commons Zero 1.0 Universal license.
